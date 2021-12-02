@@ -1,0 +1,14 @@
+{
+  "name": "@walqaw/uberduckjs",
+  "version": "1.0.0",
+  "description": "Wrapper for the Uberduck.ai API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waleed Qawasmi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
